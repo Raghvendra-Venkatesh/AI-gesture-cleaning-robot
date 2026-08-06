@@ -24,7 +24,6 @@ This project integrates **OpenCV**, **YOLOv11**, and gesture recognition with a 
 - Python 3.x
 - OpenCV
 - YOLOv11
-- Ultralytics
 - NumPy
 - PySerial
 
