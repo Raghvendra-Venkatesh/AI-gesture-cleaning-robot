@@ -1,4 +1,4 @@
-# AI Hand Gesture Cleaning Robot
+## AI Hand Gesture Cleaning Robot
 
 This project controls a four-wheel robot from laptop hand gestures. The laptop runs OpenCV and the provided YOLO gesture model, then sends movement commands to an ESP32 over Wi-Fi. The ESP32 controls one dual-channel L298N, with the two left motors paired on one channel and the two right motors on the other.
 
