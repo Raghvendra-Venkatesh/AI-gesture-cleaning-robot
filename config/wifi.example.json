@@ -1,0 +1,8 @@
+{
+  "mode": "ap",
+  "ap_ssid": "GestureRobot",
+  "ap_password": "change-this-password",
+  "station_ssid": "your-router-ssid",
+  "station_password": "your-router-password",
+  "robot_base_url": "http://192.168.4.1"
+}

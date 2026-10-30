@@ -1,0 +1,9 @@
+joblib>=1.4
+matplotlib>=3.9
+numpy>=1.26
+opencv-python>=4.10
+pyyaml>=6.0
+requests>=2.32
+scikit-learn>=1.5
+seaborn>=0.13
+ultralytics>=8.3

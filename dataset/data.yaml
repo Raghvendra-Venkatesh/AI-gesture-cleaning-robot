@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+names: ['Down', 'Left', 'Right', 'Stop', 'Thumbs Down', 'Thumbs up', 'Up']
+
+roboflow:
+  workspace: yolo-zxvpk
+  project: hand-gesture-r7qgb
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-zxvpk/hand-gesture-r7qgb/dataset/6

@@ -1,0 +1,15 @@
+{
+  "camera_index": 0,
+  "image_width": 1280,
+  "image_height": 720,
+  "model_type": "yolo",
+  "model_path": "models/yolo_gesture_best.pt",
+  "confidence_threshold": 0.55,
+  "consecutive_frames": 4,
+  "no_detection_stop_seconds": 0.6,
+  "heartbeat_seconds": 0.4,
+  "request_timeout_seconds": 0.4,
+  "dry_run": false,
+  "robot_base_url": "http://192.168.4.1",
+  "display_window": "Gesture Cleaning Robot"
+}

@@ -1,0 +1,12 @@
+{
+  "_instructions": "YOLO training labels map to robot commands. Unmapped gestures are treated as STOP.",
+  "mapping": {
+    "Up": "FORWARD",
+    "Thumbs up": "FORWARD",
+    "Down": "BACKWARD",
+    "Thumbs Down": "BACKWARD",
+    "Left": "LEFT",
+    "Right": "RIGHT",
+    "Stop": "STOP"
+  }
+}
